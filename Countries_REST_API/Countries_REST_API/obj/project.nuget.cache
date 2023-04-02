@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pYEEXHUjt935XkSuI1oBguctyir9buvkvavHmFgHeM/lm/BiG9dxPkl/0CgI7N/kzgp8bZBnos+oFWsQwH8hHw==",
+  "success": true,
+  "projectFilePath": "C:\\me\\projects\\sweeft\\Countries_REST_API\\Countries_REST_API\\Countries_REST_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

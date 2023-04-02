@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\sweeft-console\sweeft-console\bin\Debug\net6.0\sweeft-console.exe
+C:\Users\DELL\source\repos\sweeft-console\sweeft-console\bin\Debug\net6.0\sweeft-console.deps.json
+C:\Users\DELL\source\repos\sweeft-console\sweeft-console\bin\Debug\net6.0\sweeft-console.runtimeconfig.json
+C:\Users\DELL\source\repos\sweeft-console\sweeft-console\bin\Debug\net6.0\sweeft-console.dll
+C:\Users\DELL\source\repos\sweeft-console\sweeft-console\bin\Debug\net6.0\sweeft-console.pdb
+C:\Users\DELL\source\repos\sweeft-console\sweeft-console\obj\Debug\net6.0\sweeft-console.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\sweeft-console\sweeft-console\obj\Debug\net6.0\sweeft-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\sweeft-console\sweeft-console\obj\Debug\net6.0\sweeft-console.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\sweeft-console\sweeft-console\obj\Debug\net6.0\sweeft-console.AssemblyInfo.cs
+C:\Users\DELL\source\repos\sweeft-console\sweeft-console\obj\Debug\net6.0\sweeft-console.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\sweeft-console\sweeft-console\obj\Debug\net6.0\sweeft-console.dll
+C:\Users\DELL\source\repos\sweeft-console\sweeft-console\obj\Debug\net6.0\refint\sweeft-console.dll
+C:\Users\DELL\source\repos\sweeft-console\sweeft-console\obj\Debug\net6.0\sweeft-console.pdb
+C:\Users\DELL\source\repos\sweeft-console\sweeft-console\obj\Debug\net6.0\sweeft-console.genruntimeconfig.cache
+C:\Users\DELL\source\repos\sweeft-console\sweeft-console\obj\Debug\net6.0\ref\sweeft-console.dll
