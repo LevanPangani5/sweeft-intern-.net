@@ -51,6 +51,6 @@ select tich.TeacherId ,tich.FirstName , tich.LastName , tich.Topic ,tich.GenderI
 from Teacher as tich
 inner join Student_Pupil as sttich on tich.TeacherId = sttich.TeacherId
 inner join Pupil as st on sttich.StudentId= st.PupilId
-where st.FirstName = 'გიორგი'
+where st.FirstName = 'Nგიორგი'
 
 go
